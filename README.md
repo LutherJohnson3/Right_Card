@@ -2,4 +2,7 @@
 # Right_Card
 “If you have ever had trouble choosing the best credit card for yourself, this UI solution solves that problem”.
 
-This mobile and desktop experience allows the user to easily select the best credit card to meet their needs.  By answering a few simple questions, the user is shown the credit card with most appropriate features such as reward points, cash back, low interest rate, or credit builder.
+This responsive mobile and desktop experience enables users to effortlessly identify the credit card that best aligns with their financial goals. By answering a brief series of questions, users receive a personalized recommendation highlighting key features such as rewards points, cash-back options, low interest rates, or credit-building benefits.
+
+Disclaimer:
+In accordance with USAA Bank policy, all design files and related materials must remain within the secured company environment. Saving, copying, or removing these files from USAA premises or local systems is strictly prohibited.
